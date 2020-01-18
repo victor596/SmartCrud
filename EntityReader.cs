@@ -109,14 +109,11 @@ namespace SmartCrud
                     {
                         if (item.Value.PropertyType != Bool)
                         {
-                            item.Value.SetValue(t,
-                                ConvertType.GetValueFromObject(val,
-                                item.Value.PropertyType), null);
+                            item.Value.SetValue(t, ConvertType.GetValueFromObject(val, item.Value.PropertyType), null);
                         }
                         else
                         {
-                            item.Value.SetValue(t,
-                                ConvertType.GetValueFromObject(val, Bool), null);
+                            item.Value.SetValue(t, ConvertType.GetValueFromObject(val, Bool), null);
                         }
                     }
                 }
