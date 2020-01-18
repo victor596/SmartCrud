@@ -1,8 +1,0 @@
-E:\Victor\Projects\MyPro\firewolf.core\src\SmartCrud\obj\Release\SmartCrud.csprojAssemblyReference.cache
-E:\Victor\Projects\MyPro\firewolf.core\src\SmartCrud\bin\Release\SmartCrud.dll
-E:\Victor\Projects\MyPro\firewolf.core\src\SmartCrud\bin\Release\SmartCrud.pdb
-E:\Victor\Projects\MyPro\firewolf.core\src\SmartCrud\bin\Release\Dapper.dll
-E:\Victor\Projects\MyPro\firewolf.core\src\SmartCrud\bin\Release\Dapper.xml
-E:\Victor\Projects\MyPro\firewolf.core\src\SmartCrud\obj\Release\SmartCrud.csproj.CopyComplete
-E:\Victor\Projects\MyPro\firewolf.core\src\SmartCrud\obj\Release\SmartCrud.dll
-E:\Victor\Projects\MyPro\firewolf.core\src\SmartCrud\obj\Release\SmartCrud.pdb
